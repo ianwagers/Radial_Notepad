@@ -1,0 +1,6 @@
+ T                                                            
+
+
+                                      This is an early version of the code!
+                            	This works as a very basic text editor with saving and
+                         closing text files. Light and dark modes work as well as the X!
